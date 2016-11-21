@@ -54,7 +54,7 @@ I am not very experienced with Drools so the library actually does what was need
     <dependency>
         <groupId>com.github.daveallie</groupId>
         <artifactId>junit-drools</artifactId>
-        <version>1.2.5</version>
+        <version>1.2.6</version>
         <scope>test</scope>
     </dependency>
 ```
